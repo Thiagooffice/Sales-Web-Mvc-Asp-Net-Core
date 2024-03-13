@@ -29,4 +29,9 @@ C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\Sale
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.g.cshtml.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.g.cshtml.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
