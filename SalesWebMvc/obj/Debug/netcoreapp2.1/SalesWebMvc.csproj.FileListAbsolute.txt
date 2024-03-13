@@ -30,4 +30,3 @@ C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\Sale
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
-C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
