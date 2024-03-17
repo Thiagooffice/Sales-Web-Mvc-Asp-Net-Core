@@ -24,6 +24,8 @@ C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\Sale
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.g.cshtml.cs
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.g.cshtml.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.g.cshtml.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.g.cshtml.cs
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.g.cshtml.cs
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
@@ -37,5 +39,3 @@ C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\Sale
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
-C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
-C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.g.cshtml.cs
