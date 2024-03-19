@@ -1,3 +1,8 @@
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.deps.json
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.json
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.runtimeconfig.dev.json
@@ -5,11 +10,6 @@ C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\Sale
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.dll
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.1\SalesWebMvc.Views.pdb
-C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
-C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
-C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs
-C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
-C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.input.cache
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.TagHelpers.output.cache
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorCoreGenerate.cache
@@ -39,3 +39,6 @@ C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\Sale
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.g.cshtml.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.g.cshtml.cs
+C:\Users\thiag\OneDrive\Área de Trabalho\c#\SalesWebMvcProject\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.g.cshtml.cs
